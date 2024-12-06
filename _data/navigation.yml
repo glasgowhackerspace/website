@@ -13,6 +13,8 @@ en: &DEFAULT_EN
   nav:
     - title: "About"
       section: services
+    - title: "Discord"
+      url: https://discord.gg/b9h36uyssD
     - title: "Wiki"
       url: https://wiki.glashack.space
 en-US:
