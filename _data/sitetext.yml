@@ -22,7 +22,7 @@ en: &DEFAULT_EN
     section: services
     list:
       - title: "Open Nights"
-        desc: "We run weekly open nights on Wednesdays at 19:00. Please join our [Discord server](https://discord.gg/b9h36uyssD) for more info and updates."
+        desc: "We run weekly open nights on Wednesdays at 19:00. The entrance is between the plant shop and the building reception. This is a shared building, and the reception is only open 9-5, but we are open all hours. When you arrive, send us a message on Discord or IRC, and someone will come down to let you in. Please join our [Discord server](https://discord.gg/b9h36uyssD) for more info and updates."
         icon: fas fa-unlock-alt
       - title: "Location"
         desc: "Our current space is in South Block, 60-64 Osbourne Street."
