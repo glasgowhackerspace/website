@@ -149,6 +149,8 @@ en: &DEFAULT_EN
     social:
       - url: https://discord.gg/b9h36uyssD
         icon: "fab fa-discord"
+      - url: https://instagram.com/glasgowhackspace
+        icon: "fab fa-instagram"
 en-US:
   <<: *DEFAULT_EN
 en-CA:
