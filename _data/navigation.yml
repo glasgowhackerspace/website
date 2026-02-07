@@ -17,6 +17,8 @@ en: &DEFAULT_EN
       url: https://discord.gg/b9h36uyssD
     - title: "Wiki"
       url: https://wiki.glashack.space
+    - title: "Calendar"
+      url: https://calendar.lab.glashack.space
 en-US:
   <<: *DEFAULT_EN
 en-CA:
