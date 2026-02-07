@@ -13,8 +13,8 @@ en: &DEFAULT_EN
   header:
     title: 
     text: Glasgow Hackspace
-    button: About Us
-    buttonlink: "#services"
+    button: Calendar
+    buttonlink: "https://calendar.lab.glashack.space"
 
   services:
     title: "About Us"
